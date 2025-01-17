@@ -8,6 +8,6 @@
 🤝 Fique à vontade para explorar meu trabalho e conectar-se comigo!  
 🌐 ¡Siéntete libre de explorar mi trabajo y conectar conmigo!
 
-[![View Full Presentation in English](https://img.shields.io/badge/🇺🇸%20View%20Full%20Presentation%20in%20English-blue?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README.md)
-[![Visualizar Apresentação Completa em Português](https://img.shields.io/badge/🇧🇷%20Visualizar%20Apresentação%20Completa%20em%20Português-green?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-PT_BR.md)
+[![View Full Presentation in English](https://img.shields.io/badge/🇺🇸%20View%20Full%20Presentation%20in%20English-blue?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-US.md)
+[![Visualizar Apresentação Completa em Português](https://img.shields.io/badge/🇧🇷%20Visualizar%20Apresentação%20Completa%20em%20Português-green?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-BR.md)
 [![Ver Presentación Completa en Español](https://img.shields.io/badge/🇪🇸%20Ver%20Presentación%20Completa%20en%20Español-yellow?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-ES.md)
