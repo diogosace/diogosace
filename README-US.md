@@ -30,6 +30,6 @@ Undergraduate student in Computer Science at the State University of Santa Cruz 
 
 ---
 
-[![Visualizar versão em português](https://img.shields.io/badge/🇧🇷%20Visualizar%20vers%C3%A3o%20em%20portugu%C3%AAs-green?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-BR.md)
-[![Ver versión en español](https://img.shields.io/badge/🇪🇸%20Ver%20versi%C3%B3n%20en%20espa%C3%B1ol-yellow?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-ES.md)
+[![Visualizar versão em português](https://img.shields.io/badge/🇧🇷%20Visualizar%20vers%C3%A3o%20em%20portugu%C3%AAs-green?style=for-the-badge)](https://github.com/diogosace/diogosace/blob/main/README-BR.md)
+[![Ver versión en español](https://img.shields.io/badge/🇪🇸%20Ver%20versi%C3%B3n%20en%20espa%C3%B1ol-yellow?style=for-the-badge)](https://github.com/diogosace/diogosace/blob/main/README-ES.md)
 
