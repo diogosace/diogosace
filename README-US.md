@@ -15,7 +15,7 @@ Undergraduate student in Computer Science at the State University of Santa Cruz 
 - **Database Management:** <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="20"/>
 - **Cloud Computing & DevOps:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/>
 
-## Interpersonal Skills:
+## Interpersonal Skills
 
 - 💬 Clear and effective communication.
 - 🚀 Quick learning and adaptability to new technologies.
