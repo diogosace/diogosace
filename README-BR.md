@@ -10,10 +10,10 @@ Graduando em Ciência da Computação pela Universidade Estadual de Santa Cruz (
 
 ## Habilidades Técnicas
 
-- **Backend Development:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/>
-- **Frontend Development:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/>
-- **Database Management:** <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="20"/>
-- **Cloud Computing & DevOps:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/>
+- **Desenvolvimento Backend:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/>
+- **Desenvolvimento Frontend:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/>
+- **Gerenciamento de Banco de Dados:** <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="20"/>
+- **Computação em Nuvem & DevOps:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/>
 
 ## Habilidades Interperssoais
 
