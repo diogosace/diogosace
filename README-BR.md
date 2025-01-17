@@ -30,6 +30,6 @@ Graduando em Ciência da Computação pela Universidade Estadual de Santa Cruz (
 
 ---
 
-[![View english version](https://img.shields.io/badge/🇺🇸%20View%20English%20Version-blue?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-US.md)
-[![Ver versión en español](https://img.shields.io/badge/🇪🇸%20Ver%20versi%C3%B3n%20en%20espa%C3%B1ol-yellow?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-ES.md)
+[![View english version](https://img.shields.io/badge/🇺🇸%20View%20English%20Version-blue?style=for-the-badge)](https://github.com/diogosace/diogosace/blob/main/README-US.md)
+[![Ver versión en español](https://img.shields.io/badge/🇪🇸%20Ver%20versi%C3%B3n%20en%20espa%C3%B1ol-yellow?style=for-the-badge)](https://github.com/diogosace/diogosace/blob/main/README-ES.md)
 
