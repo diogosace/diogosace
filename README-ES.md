@@ -30,5 +30,5 @@ Estudiante de pregrado en Ciencias de la Computación en la Universidad Estatal 
 
 ---
 
-[![View english version](https://img.shields.io/badge/🇺🇸%20View%20English%20Version-blue?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-US.md)
-[![Visualizar versão em português](https://img.shields.io/badge/🇧🇷%20Visualizar%20vers%C3%A3o%20em%20portugu%C3%AAs-green?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-BR.md)
+[![View english version](https://img.shields.io/badge/🇺🇸%20View%20English%20Version-blue?style=for-the-badge)](https://github.com/diogosace/diogosace/blob/main/README-US.md)
+[![Visualizar versão em português](https://img.shields.io/badge/🇧🇷%20Visualizar%20vers%C3%A3o%20em%20portugu%C3%AAs-green?style=for-the-badge)](https://github.com/diogosace/diogosace/blob/main/README-BR.md)
