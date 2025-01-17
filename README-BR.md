@@ -19,7 +19,7 @@ Graduando em Ciência da Computação pela Universidade Estadual de Santa Cruz (
 
 - 💬 Comunicação clara e eficaz.
 - 🚀 Facilidade de aprendizado e adaptação a novas tecnologias.
-- 🤝 Empatia e foco em soluções voltadas ao usuário
+- 🤝 Empatia e foco em soluções voltadas ao usuário.
 
 ## Contate-me
 
